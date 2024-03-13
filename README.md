@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Tosif</h1>
-<h3 align="center">Student | Front End Developer</h3>
+<h3 align="center">Student | Front End Designer</h3>
 
 - 🌱 I’m currently learning **DSA,Digital Forensics,Networking**
 
